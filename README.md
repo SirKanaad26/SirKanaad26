@@ -19,6 +19,13 @@ Here are some ideas to get you started:
 
 I'm a graduate student pursuing an MS in Computer Science at UC San Diego, with a passion for data systems, security, cryptography and compiler design.
 
+## 📫 Let's Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/kanaad-deshpande/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
 ## 🔬 What I'm Working On
 
 I'm currently involved in **LLM security research**, exploring prompt injection attacks, adversarial techniques, and building stateful authorization systems for MCP servers. I'm also developing an **ARM ASL (Architecture Specification Language) to Rust compiler**, involving an ANTLR parser integration. I have authored a book and a research paper on Cryptography with everyday objects.
@@ -48,9 +55,4 @@ Rust • TypeScript • Golang • Python • C++ • PostgreSQL • MySQL • M
 ![Kanaad's GitHub stats](https://github-readme-stats.vercel.app/api?username=SirKanaad26&show_icons=true&show=prs_merged&theme=dracula&rank_icon=github)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SirKanaad26&layout=compact&langs_count=12)
 
-## 📫 Let's Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/kanaad-deshpande/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
+
