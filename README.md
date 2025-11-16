@@ -45,8 +45,8 @@ I'm currently involved in **LLM security research**, exploring prompt injection 
 
 Rust • TypeScript • Golang • Python • C++ • PostgreSQL • MySQL • MongoDB • AWS • GCP • Azure
 
-![Kanaad's GitHub stats](https://github-readme-stats.vercel.app/api?username=SirKanaad26&show_icons=true&show=prs_merged&theme=highcontrast)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SirKanaad26&layout=compact&langs_count=12&card_width=400)
+![Kanaad's GitHub stats](https://github-readme-stats.vercel.app/api?username=SirKanaad26&show_icons=true&show=prs_merged&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SirKanaad26&layout=compact&langs_count=12)
 
 ## 📫 Let's Connect
 <p align="center">
