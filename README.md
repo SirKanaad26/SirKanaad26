@@ -27,7 +27,6 @@ I'm currently involved in **LLM security research**, exploring prompt injection 
 
 - **Software Engineering Intern** at Sigma Computing (San Francisco, USA)
 - **Software Development Engineer 1** at JP Morgan Chase (Mumbai, India)
-- **Robotics Operating Systems Intern** at Worley India Pvt. Ltd. (Mumbai, India)
 
 ## :book: Publications
 
