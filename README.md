@@ -21,7 +21,7 @@ I'm a graduate student pursuing an MS in Computer Science at UC San Diego, with 
 
 ## 🔬 What I'm Working On
 
-I'm currently involved in **LLM security research**, exploring prompt injection attacks, adversarial techniques, and stateful authorization systems for MCP servers. I'm also developing an **ASL (Architecture Specification Language) to Rust compiler**, involving an ANTLR parser integration. I have authored a book and a research paper on Cryptography with everyday objects.
+I'm currently involved in **LLM security research**, exploring prompt injection attacks, adversarial techniques, and stateful authorization systems for MCP servers. I'm also developing an **ARM ASL (Architecture Specification Language) to Rust compiler**, involving an ANTLR parser integration. I have authored a book and a research paper on Cryptography with everyday objects.
 
 ## 💼 Professional Experience
 
